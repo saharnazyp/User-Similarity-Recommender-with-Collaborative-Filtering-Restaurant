@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+venv_restaurant/
+.conda/
+*.conda
+*.yaml
+*.yml
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Data files (ignore large raw or intermediate data)
+data/raw/
+data/interim/
+data_set/
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.db
+*.sqlite
+*.zip
+*.gz
+*.tar
+*.tgz
+*.bz2
+
+# Logs and outputs
+*.log
+logs/
+outputs/
+results/
+reports/
+
+# Checkpoints / models
+checkpoints/
+*.ckpt
+*.pth
+*.pt
+*.h5
+*.joblib
+*.pkl
+*.pickle
+*.dill
+
+# IDE / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.tmp
