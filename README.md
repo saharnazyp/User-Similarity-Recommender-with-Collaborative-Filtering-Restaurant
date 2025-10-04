@@ -1,5 +1,5 @@
 ﻿# Predicting-Restaurant-Ratings
-حتماً، این نسخه‌ی README به **انگلیسی** برای ریپازیتوری شما:
+
 
 ---
 
@@ -53,3 +53,4 @@ This project is a collaborative effort with **Saeid**. The focus is on **knowled
 `Machine Learning` `Data Science` `Collaborative Filtering` `Recommender System` `User-to-User` `Teamwork`
 
 --؟
+
